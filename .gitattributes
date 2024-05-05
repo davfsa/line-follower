@@ -1,0 +1,10 @@
+* text=auto eol=lf
+.mxproject linguist-generated=true
+.cproject linguist-generated=true
+.project linguist-generated=true
+Drivers/* linguist-generated=true
+Core/Src/stm32*.c linguist-generated=true
+Core/Src/sysmem.c linguist-generated=true
+Core/Src/syscalls.c linguist-generated=true
+Core/Inc/stm32*.h linguist-generated=true
+Core/Startup/*.s linguist-generated=true

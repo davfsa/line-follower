@@ -1,0 +1,13 @@
+# Intellij project files
+.idea/
+cmake-build-*/
+
+# Vscode project files
+.vscode/
+
+# STM32IDE project files
+Debug/
+.mxproject
+*.launch
+.settings/
+
